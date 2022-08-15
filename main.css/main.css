@@ -1,0 +1,129 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.srsr{
+    background-color: black;
+}
+.img1{
+    margin-left: 19px;
+}
+.atag{
+    text-decoration: none;
+    justify-content: center;
+    text-align: center;
+    margin-left: 435px;
+    color: white;
+}
+.vbvbb{
+    font-size: larger;
+    margin-left: 420px;
+}
+.displayimg{
+    background-image: url(//image/hero-bg.jpg);
+    width: 100%;
+    height: 70vh;
+}
+.dimag{
+    width: 100%;
+    height: 100vh;
+}
+.lklkl{
+    margin-top: -40rem;
+    margin-left: 5rem;
+    color: white;
+    font-size: medium;
+}
+.opop{
+    margin-left: 15rem;
+    margin-top: -24px;
+    color: white;
+}
+.lolps{
+    margin-left: 1120px;
+    color: white;
+    margin-top: -24px;
+}
+.vbvn{
+    text-decoration: none;
+    color: white;
+    margin-top: 5rem;
+    margin-left: 2rem;
+}
+.lopt{
+    margin-left: 25rem;
+    margin-top: -2rem;
+    text-decoration: none;
+    background-color: black;
+}
+.atggg{
+    text-decoration: none;
+    color: white;
+    padding: 5px 5px;
+    font-size: medium;
+}
+.nnnnnn{
+
+}
+.atggg:hover{
+    background-color: orange;
+    color: white;
+}
+.h1taggg{
+    margin-top: 15rem;
+}
+.bbtns{
+    font-weight: 600;
+    font-size: 13px;
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 12px 30px;
+    border-radius: 50px;
+    color: white;
+    border: 2px solid ;
+    text-decoration: none;
+
+    margin-top: 1rem;
+
+}
+.bbtns:hover{
+    background-color:#cda45e;
+    color: white;
+}
+
+ /* nextsection */
+
+ .newssss{
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+ }
+ .bnmb{
+    margin-top: 12rem;
+    margin-left: 3rem;
+    color: white;
+ }
+ .kikikiki{
+    margin-top: 11rem;
+    margin-left: 3rem;
+    border: 5px solid;
+    border-radius: 10px;
+ }
+ .erty{
+    color: white;
+    margin-top: 5rem;
+    margin-left: 6rem;
+ }
+ .awse{
+    color: orange;
+    margin-left: 5rem;
+ }
+ .cardbox{
+    background-color: black;
+    width: 100%;
+    height: 80vh;
+ }
+ .h5tggg{
+    margin-top: 5rem;
+ }

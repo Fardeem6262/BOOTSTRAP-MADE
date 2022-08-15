@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.menusection{
+    background-color: rgb(26, 24, 20);
+    width: 100%;
+    height: 90vh;
+}
+
+.lolop4{
+    margin-left: 220px;
+}
+.lotyu{
+    margin-top: -29rem;
+    color: white;
+    margin-left: 220px;
+}
+.lolohgt{
+    color: orange;
+    margin-left: 10rem;
+    margin-top: 1rem;
+    font-size: xx-large;
+
+}
+.atages{
+    color: white;
+    text-decoration: none;
+    padding: 2px 3px 5px;
+    margin-left: 20px;
+}
+.vdvvd{
+    margin-left: 620px;
+    margin-top: 2rem;
+}
+.vdvvd:hover{
+    color: white;
+}
+.pict{
+    margin-top: 2rem;
+    width: 70px;
+    border-radius: 50%;
+    border: 5px solid rgba(255, 255, 255, 0.2);
+    margin-left: 120px;
+}
+.opouyt{
+    text-decoration: none;
+    color: white;
+    margin-left: 1rem;
+}
