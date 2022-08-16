@@ -63,9 +63,7 @@
     padding: 5px 5px;
     font-size: medium;
 }
-.nnnnnn{
 
-}
 .atggg:hover{
     background-color: orange;
     color: white;
@@ -97,7 +95,7 @@
  .newssss{
     background-color: black;
     width: 100%;
-    height: 100vh;
+    height: 85vh;
  }
  .bnmb{
     margin-top: 12rem;
@@ -127,3 +125,33 @@
  .h5tggg{
     margin-top: 5rem;
  }
+ .footarpagg{
+   background: black;
+   padding: 0px 0px 30px;
+   color: rgb(255, 255, 255);
+   font-size: 14px;
+ }
+ /* footer */
+ .dblockk{
+    display: block;
+    color: white;
+    text-decoration: none;
+ }
+ .dblockk:hover{
+    color: orange;
+ }
+ .inopopikiki{
+    color: white;
+    background-color: #cda45e;
+    width: 4rem;
+ }
+ .inopopikiki:hover{
+    color: orange;
+    background-color: white;
+ }
+ .h4foot{
+    text-align: center;
+    justify-content: center;
+    font-size: small;
+ }
+ /* ddx */

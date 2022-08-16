@@ -47,5 +47,27 @@
 .opouyt{
     text-decoration: none;
     color: white;
-    margin-left: 1rem;
+    margin-left: 2rem;
+    margin-top: -4rem;
+}
+.opouyt2{
+    margin-left: 14rem;
+    font-weight: lighter;
+}
+.pict3{
+    margin-top:-35rem;
+    width: 70px;
+    border-radius: 50%;
+    border: 5px solid rgba(255, 255, 255, 0.2);
+    margin-left: 520px;
+}
+.pict4{
+    margin-top: -222rem;
+    width: 70px;
+    border-radius: 50%;
+    border: 5px solid rgba(255, 255, 255, 0.2);
+    margin-left: 620px;
+}
+.opouyt3{
+    margin-left: 12rem;
 }
